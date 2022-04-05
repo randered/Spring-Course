@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring5-mysql-recipe-app-mysql-scripts/spring5-mysql-recipe-app.iml" filepath="$PROJECT_DIR$/spring5-mysql-recipe-app-mysql-scripts/spring5-mysql-recipe-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring5-mysql-recipe-app-mysql-scripts.iml" filepath="$PROJECT_DIR$/.idea/spring5-mysql-recipe-app-mysql-scripts.iml" />
+    </modules>
+  </component>
+</project>
